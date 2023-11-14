@@ -12,7 +12,7 @@ img{
     margin-right: 20px;
     margin-left: 10px;
 
-    float: left;
+    float: right;
 }
 #div1{
     text-shadow: 3px 3px 5px red, 3px 3px 5px hsl(273, 63%, 44%);
